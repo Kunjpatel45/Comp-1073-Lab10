@@ -36,6 +36,29 @@
         "candy sprinkles"
       ],
       "image": "strawberry-sprinkle.svg"
+    },
+
+    {
+      "name": "Kesar Pista Delight",
+      "calories": 380,
+      "type": "ice cream",
+      "ingredients": [
+        "saffron-infused cream",
+        "pistachio nuts",
+        "cardamom"
+      ],
+      "image": "ice-cream-xtra1.svg"
+    },
+    {
+      "name": "Decadent Dark Chocolate Truffle",
+      "calories": 450,
+      "type": "ice cream",
+      "ingredients": [
+        "rich dark chocolate",
+        "chocolate truffles",
+        "cocoa powder"
+      ],
+      "image": "ice-cream-xtra2.svg"
     }
   ]
 }
